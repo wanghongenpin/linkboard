@@ -13,9 +13,9 @@
 
 ## 下载地址
 
-- Windows 版：[下载桌面端](releases/latest/uniclip-windows-setup.exe)
-- macOS 版：[下载桌面端](releases/latest/uniclip-macos.dmg)
-- Android 版：[下载移动端](releases/latest/uniclip-android.apk)
+- Windows 版：[下载桌面端](https://github.com/wanghongenpin/uni-clip/releases/latest/download/uniclip-windows-setup.exe)
+- macOS 版：[下载桌面端](https://github.com/wanghongenpin/uni-clip/releases/latest/download/uniclip-macos.dmg)
+- Android 版：[下载移动端](https://github.com/wanghongenpin/uni-clip/releases/latest/download/uniclip-android.apk)
 - iOS 版：[下载移动端](https://testflight.apple.com/join/rx3ZQh3z)
 
 > 如有新版本或其他平台支持，请关注项目主页或后续更新。
@@ -26,6 +26,6 @@
 
 ## 软件截图
 
-<img src="images/desktop.png" alt="桌面端截图"  width="520" height="540"/>
+<img src="images/desktop.png" alt="桌面端截图"  width="470" height="500"/>
 
 <img src="images/phone.png" alt="移动端截图" height="580"/>
