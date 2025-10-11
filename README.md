@@ -26,6 +26,4 @@
 
 ## 软件截图
 
-<img src="images/desktop.png" alt="桌面端截图"  width="470" height="500"/>
-
-<img src="images/phone.png" alt="移动端截图" height="580"/>
+<img src="images/desktop.png" alt="桌面端截图"  width="460" height="490"/><img src="images/phone.png" alt="移动端截图" height="580"/>
