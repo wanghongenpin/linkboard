@@ -1,6 +1,6 @@
 # UniClip
 
-一款跨设备剪贴板同步工具，支持局域网与蓝牙双通道，同步文本/图片等内容。项目基于 Flutter 构建，开箱即用、无云端依赖，数据仅在你的设备之间本地传输与保存。
+一款跨设备剪贴板同步工具，支持局域网与蓝牙双通道，同步文本/图片等内容。开箱即用、无云端依赖，数据仅在你的设备之间本地传输与保存。
 
 ## 功能特性
 - 局域网 (TCP) + 蓝牙 (BLE) 双通道同步
@@ -13,10 +13,10 @@
 
 ## 下载地址
 
-- Windows 版：[下载桌面端](/releases/latest/uniclip-windows-setup.exe)
-- macOS 版：[下载桌面端](/releases/latest/uniclip-macos.dmg)
-- Android 版：[下载移动端](/releases/latest/uniclip-android.apk)
-- iOS 版：[下载移动端](/releases/latest/uniclip-ios.ipa)
+- Windows 版：[下载桌面端](releases/latest/uniclip-windows-setup.exe)
+- macOS 版：[下载桌面端](releases/latest/uniclip-macos.dmg)
+- Android 版：[下载移动端](releases/latest/uniclip-android.apk)
+- iOS 版：[下载移动端](https://testflight.apple.com/join/rx3ZQh3z)
 
 > 如有新版本或其他平台支持，请关注项目主页或后续更新。
 
@@ -26,6 +26,6 @@
 
 ## 软件截图
 
-![桌面端截图](images/desktop.png)
+<img src="images/desktop.png" alt="桌面端截图"  width="520" height="540"/>
 
-![移动端截图](images/phone.png)
+<img src="images/phone.png" alt="移动端截图" height="580"/>
