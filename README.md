@@ -1,6 +1,6 @@
 # UniClip
 
-一款跨设备剪贴板同步工具，支持局域网与蓝牙双通道，同步文本/图片等内容。开箱即用、无云端依赖，数据仅在你的设备之间本地传输与保存。
+一款跨设备粘贴板同步历史管理工具，支持局域网与蓝牙双通道，同步文本/图片等内容。开箱即用、无云端依赖，数据仅在你的设备之间本地传输与保存。
 
 ## 功能特性
 - 局域网 (TCP) + 蓝牙 (BLE) 双通道同步
@@ -14,9 +14,9 @@
 ## 下载地址
 
 - Windows 版：[下载桌面端](https://github.com/wanghongenpin/uni-clip/releases/latest/download/uniclip-windows-setup.exe)
-- macOS 版：[下载桌面端](https://github.com/wanghongenpin/uni-clip/releases/latest/download/uniclip-macos.dmg)
+- macOS 版：[App Store](https://apps.apple.com/cn/app/uniclip-%E8%B7%A8%E8%AE%BE%E5%A4%87%E7%B2%98%E8%B4%B4%E6%9D%BF/id6753873760)
 - Android 版：[下载移动端](https://github.com/wanghongenpin/uni-clip/releases/latest/download/uniclip-android.apk)
-- iOS 版：[下载移动端](https://testflight.apple.com/join/rx3ZQh3z)
+- iOS 版：[App Store](https://apps.apple.com/cn/app/uniclip-%E8%B7%A8%E8%AE%BE%E5%A4%87%E7%B2%98%E8%B4%B4%E6%9D%BF/id6753873760)
 
 > 如有新版本或其他平台支持，请关注项目主页或后续更新。
 
@@ -26,4 +26,4 @@
 
 ## 软件截图
 
-<img src="images/desktop.png" alt="桌面端截图"  width="460" height="490"/><img src="images/phone.png" alt="移动端截图" height="580"/>
+<img src="images/desktop.png" alt="桌面端截图"  width="500" height="520"/><img src="images/phone.png" alt="移动端截图" height="580"/>
