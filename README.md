@@ -1,11 +1,13 @@
-# UniClip
+# Linkboard
 
-一款跨设备粘贴板同步历史管理工具，支持局域网与蓝牙双通道，同步文本/图片等内容。开箱即用、无云端依赖，数据仅在你的设备之间本地传输与保存。
+[English](README.en.md)
+
+一款跨设备粘贴板同步历史管理工具，支持局域网、蓝牙和 WebRTC 直连传输，同步文本/图片等内容。开箱即用、无云端依赖，数据仅在你的设备之间本地传输与保存。
 
 ## 功能特性
-- 局域网 (TCP) + 蓝牙 (BLE) 双通道同步
-- 当在同一局域网时使用 TCP，无法直连时回落到低功耗蓝牙
-- 跨平台支持：Android、iOS、Windows、macOS、Linux
+- 局域网 (TCP) + 蓝牙 (BLE) +WebRTC 直连传输
+- 当在同一局域网时使用 TCP，无法直连时回落到其他模式
+- 跨平台支持：Android、iOS、Windows、macOS
 - 文本与图片同步（图片按 PNG/JPEG 自动识别）
 - 历史记录管理，支持保留天数配置与一键清理过期记录
 - APP 键盘扩展：无需切出当前 App，可直接从历史粘贴
@@ -13,10 +15,10 @@
 
 ## 下载地址
 
-- Windows 版：[下载桌面端](https://github.com/wanghongenpin/uni-clip/releases/latest/download/uniclip-windows-setup.exe)
-- macOS 版：[App Store](https://apps.apple.com/cn/app/uniclip-%E8%B7%A8%E8%AE%BE%E5%A4%87%E7%B2%98%E8%B4%B4%E6%9D%BF/id6753873760)
-- Android 版：[下载移动端](https://github.com/wanghongenpin/uni-clip/releases/latest/download/uniclip-android.apk)
-- iOS 版：[App Store](https://apps.apple.com/cn/app/uniclip-%E8%B7%A8%E8%AE%BE%E5%A4%87%E7%B2%98%E8%B4%B4%E6%9D%BF/id6753873760)
+- Windows 版：[下载桌面端](https://github.com/wanghongenpin/linkboard/releases/latest/download/uniclip-windows-setup.exe)
+- macOS 版：[App Store](https://apps.apple.com/app/linkboard-cross-device-p2p/id6753873760)
+- Android 版：[下载移动端](https://github.com/wanghongenpin/linkboard/releases/latest/download/uniclip-android.apk)
+- iOS 版：[App Store](https://apps.apple.com/app/linkboard-cross-device-p2p/id6753873760)
 
 > 如有新版本或其他平台支持，请关注项目主页或后续更新。
 
@@ -26,4 +28,4 @@
 
 ## 软件截图
 
-<img src="images/desktop.png" alt="桌面端截图"  width="500" height="520"/><img src="images/phone.png" alt="移动端截图" height="580"/>
+<img src="images/desktop.png" alt="桌面端截图" width="500"/>  <img src="images/phone.png" alt="移动端截图" width="300"/>
