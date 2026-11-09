@@ -1,6 +1,6 @@
 # Linkboard
 
-A cross-device clipboard sync and history manager supporting LAN, Bluetooth, and WebRTC device-to-device transfer. It is local-first by default and does not require cloud storage for clipboard history; WebRTC connections may use Firebase signaling and STUN/TURN services.
+A cross-device clipboard sync and history manager supporting LAN, Bluetooth, and WebRTC direct transfer. Works out of the box with no cloud dependency; data stays on your devices and is transferred/stored locally.
 
 [中文文档](README.md)
 
