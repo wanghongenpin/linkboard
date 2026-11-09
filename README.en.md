@@ -24,11 +24,7 @@ A cross-device clipboard sync and history manager supporting LAN, Bluetooth, and
 
 ## Data & Privacy
 
-WebDAV sync is optional and disabled by default. It connects only to a user-configured HTTPS server using Basic Authentication. When enabled, it can sync history, favorites, pins, and attachments. The server provider can read this data; end-to-end encryption (E2EE) is not provided.
-
-Sync runs while the app is in the foreground or when manually triggered and is not guaranteed to run in the background. Conflicts use deterministic last-writer-wins (LWW) resolution. To prevent concurrent overwrites, updating an existing object requires strong-ETag conditional writes; servers that return only weak or no ETags cannot safely perform later updates. Explicit user deletions propagate to other sync peers, but retention cleanup is local. The first release does not garbage-collect remote attachments or deletion tombstones, so they may remain on the server.
-
-Default device-to-device transfer and optional WebDAV sync are separate capabilities; WebRTC may also use Firebase signaling and STUN/TURN services. See [PRIVACY.en.md](PRIVACY.en.md).
+WebDAV sync is optional and disabled by default. It connects only to your configured HTTPS server, whose provider can read the synced data; end-to-end encryption is not provided. Sync runs in the foreground or when triggered manually. See [PRIVACY.en.md](PRIVACY.en.md).
 
 ## Screenshots
 
